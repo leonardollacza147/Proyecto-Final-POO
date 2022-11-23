@@ -1,0 +1,11 @@
+﻿  MAIN.cpp
+C:\Users\Leogo\OneDrive\Escritorio\USIL\Ciclo 2\Programación Orientada a Objetos\Proyectos\MAIN\MAIN\controller\usuariosController.h(33,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Leogo\OneDrive\Escritorio\USIL\Ciclo 2\Programación Orientada a Objetos\Proyectos\MAIN\MAIN\controller\RegistroClientesController.h(33,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Leogo\OneDrive\Escritorio\USIL\Ciclo 2\Programación Orientada a Objetos\Proyectos\MAIN\MAIN\controller\RegistroProductoController.h(30,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Leogo\OneDrive\Escritorio\USIL\Ciclo 2\Programación Orientada a Objetos\Proyectos\MAIN\MAIN\controller\RegistroProductoController.h(154,24): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Leogo\OneDrive\Escritorio\USIL\Ciclo 2\Programación Orientada a Objetos\Proyectos\MAIN\MAIN\controller\RegistroPersonalController.h(30,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Leogo\OneDrive\Escritorio\USIL\Ciclo 2\Programación Orientada a Objetos\Proyectos\MAIN\MAIN\controller\CategoriaController.h(30,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Leogo\OneDrive\Escritorio\USIL\Ciclo 2\Programación Orientada a Objetos\Proyectos\MAIN\MAIN\controller\VentaController.h(31,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Leogo\OneDrive\Escritorio\USIL\Ciclo 2\Programación Orientada a Objetos\Proyectos\MAIN\MAIN\controller\FacturaController.h(31,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Leogo\OneDrive\Escritorio\USIL\Ciclo 2\Programación Orientada a Objetos\Proyectos\MAIN\MAIN\controller\VentaController.h(58): warning C4715: 'VentaController::buscarPorCodigo': no todas las rutas de acceso de control devuelven un valor
+  MAIN.vcxproj -> C:\Users\Leogo\OneDrive\Escritorio\USIL\Ciclo 2\Programación Orientada a Objetos\Proyectos\MAIN\x64\Debug\MAIN.exe
